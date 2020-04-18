@@ -240,7 +240,7 @@ body.hide {
 
 .fashion-text h1 {
   font-size: 6rem;
-  padding: 5rem 0rem;
+  padding: 1rem 0rem 0 0;
 }
 
 .fashion1 h1 {
@@ -256,7 +256,7 @@ body.hide {
 .fashion-text p {
   font-size: 2rem;
   padding: 2rem 2rem 0rem 0rem;
-  margin-bottom: 10rem;
+  margin-bottom: 1rem;
 }
 .fashion-nr {
   font-size: 15rem;
